@@ -23,7 +23,8 @@ En este repositorio puede encontrar una variedad de cuadernos de Jupyter que fue
 ## Uso
 
 Solo deben abrir los cuadernos de Jupyter que deseen, ejecutarlos y observar los resultados. Los cuadernos de Jupyter más importantes son 
-[Phantom.ipynb](Codigo%20Phantom/Phantom.ipynb), [Attenuation_matrix.ipynb](Codigo%20Phantom/Attenuation_matrix.ipynb), y [Kmeans.ipynb](Codigo%20Phantom/Kmeans.ipynb).
+[Phantom.ipynb](Codigo%20Phantom/Phantom.ipynb), [Attenuation_matrix.ipynb](Codigo%20Phantom/Attenuation_matrix.ipynb), y [Kmeans.ipynb](Codigo%20Phantom/Kmeans.ipynb). Cada cuaderno de Jupyter está bien documentado, de forma que no es prácticamente necesaria una explicación extra
+del proceso.
 
 ## Contribuyendo
 
@@ -35,20 +36,16 @@ Las contribuciones son lo que hace que la comunidad de código abierto sea un lu
 4. Haz un Push a la Rama (\`git push origin feature/FuncionalidadAsombrosa\`).
 5. Abre un Pull Request.
 
-Por favor, consulta el [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
-
 ## Licencia
 
-Distribuido bajo la Licencia MIT. Consulta \`LICENSE.txt\` para más información.
+Distribuido bajo la Licencia MIT. Consulta [LICENSE.txt](LICENCE.txt) para más información.
 
 ## Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@example.com
+Manuel Fernando Sánchez Alarcón  - mf.sanchez17@uniandes.edu.co
 
-Enlace al Proyecto: [https://github.com/tu_usuario/nombre_repositorio](https://github.com/tu_usuario/nombre_repositorio)
+Enlace al Proyecto: [https://github.com/Spoksonat/Articulo-Phantoms/tree/main](https://github.com/Spoksonat/Articulo-Phantoms/tree/main)
 
 ## Agradecimientos
 
-- [Recurso 1](https://example.com)
-- [Recurso 2](https://example.com)
-- [Recurso 3](https://example.com)
+- [Paula Andrea Pardo Ramos](https://www.linkedin.com/in/paula-andrea-pardo-ramos/?originalSubdomain=co)
