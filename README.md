@@ -6,9 +6,6 @@ de rayos X.
 ## Tabla de Contenidos
 
 - [Acerca del Proyecto](#acerca-del-proyecto)
-- [Cómo Empezar](#cómo-empezar)
-  - [Requisitos Previos](#requisitos-previos)
-  - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuyendo](#contribuyendo)
 - [Licencia](#licencia)
